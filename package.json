@@ -1,0 +1,14 @@
+{
+  "name": "next-assetlinks",
+  "homepage": "https://www.reachdigital.nl/",
+  "repository": "github:ho-nl/next-assetlinks",
+  "version": "1.0.0",
+  "description": "Generate an assetlinks.json file for Next.js projects",
+  "main": "index.js",
+  "bin": {
+    "generate-assetlinks": "./cli.js"
+  },
+  "dependencies": {},
+  "author": "Reach Digital",
+  "license": "MIT"
+}

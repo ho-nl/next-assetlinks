@@ -1,0 +1,4 @@
+module.exports = {
+  packageName: 'com.example.app',
+  sha256Fingerprint: ['FINGERPRINT_1', 'FINGERPRINT_2'],
+}
